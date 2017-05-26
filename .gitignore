@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 /bin/
+=======
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+>>>>>>> branch 'master' of https://github.com/juanlucode/fake-persons-app.git
